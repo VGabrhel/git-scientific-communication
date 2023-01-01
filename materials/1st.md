@@ -31,7 +31,7 @@
   - **changes over time**, or
   - **needs to be shared** 
 
-<img src="git-logo.png" width="400" class="center">
+<img src="viz/git-logo.png" width="400" class="center">
 
 - [Git](https://git-scm.com/) is a popular **version control system** for computer programming and other projects 
 - [**Open source**](https://en.wikipedia.org/wiki/Open-source_software)
@@ -39,7 +39,7 @@
 
 - **Benefits** of Git:
   - Git **stores contents and metadata**, so nothing is lost
-  - Git **notifies** use when there is **conflicting content** in files
+  - Git **notifies** users when there is **conflicting content** in files
   - Git **synchronizes** across different people and computers
 
 > **Action**
@@ -47,7 +47,7 @@
 - Install Git or check whether you have it already for your respective operation system:
 [Linux](https://github.com/git-guides/install-git?fbclid=IwAR1kihhEjz295LQ6s65BlIzxdTamThQBcVzBnBs1ZDQ0pKT4HOJLZF9aWT8#install-git-on-linux), [MacOs](https://github.com/git-guides/install-git?fbclid=IwAR1kihhEjz295LQ6s65BlIzxdTamThQBcVzBnBs1ZDQ0pKT4HOJLZF9aWT8#install-git-on-windows) and [Windows](https://github.com/git-guides/install-git?fbclid=IwAR1kihhEjz295LQ6s65BlIzxdTamThQBcVzBnBs1ZDQ0pKT4HOJLZF9aWT8#install-git-on-windows).
 
-In case you are **Windows** users, **consider installing shell** along the way. 
+In case you are **Windows** users, **consider installing Unix shell** along the way. Alternatively, look for the [equivalent command](https://gist.github.com/jonlabelle/e8ba94cd29b8f63fd7dd3c4f95c1d210) in your respective shell.
 
 ## **Using Git**
 - Git commants are run on the **shell**, also known as the **terminal**
@@ -71,7 +71,7 @@ For more commands, see (e.g.) the following [article](https://towardsdatascience
 
 Please note that the [**default command prompt**](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line) on **Windows uses different syntax**. 
 
-<img src="github.png" alias= "#github" width="400" class="center">
+<img src="viz/github.png" alias= "#github" width="400" class="center">
 
 - Cloud-based hosting **service**
 - Allows users to store and track their work (= version control)
@@ -99,7 +99,7 @@ There are plenty of sites on the Internet where you can upload git repositories 
 
 - Type the following command in your command line:
 ```
-git clone https://github.com/kpsych-fss-mu/git-scientific-communication.git
+git clone https://github.com/VGabrhel/git-scientific-communication.git
 ```
 
 - A new repository will be created - a directory with the name `git-scientific-communication` that contains folders and files.
@@ -120,7 +120,7 @@ git clone https://github.com/kpsych-fss-mu/git-scientific-communication.git
 
 ## **Creating a branch**
 
-<img src="octopus.jpeg" width="600" class="center">
+<img src="viz/octopus.jpeg" width="600" class="center">
 
 > **Action** 
 
@@ -190,8 +190,8 @@ git status
 - Now, how do you <u>upload changes from your computer to GitHub</u>? For each repository on your computer, Git remembers the addresses where you can download and push changes. The `git remote -v command` will show you a list of those addresses. For example:
 ```
 git remote -v
-origin https://github.com/kpsych-fss-mu/git-scientific-communication.git (fetch)
-origin https://github.com/kpsych-fss-mu/git-scientific-communication.git (push)
+origin https://github.com/VGabrhel/git-scientific-communication.git (fetch)
+origin https://github.com/VGabrhel/git-scientific-communication.git (push)
 ```
 - This output means that "origin" is the address from which you cloned the repository.
 
@@ -245,7 +245,7 @@ git push --set-upstream origin <your_branch>
 - It's always a good idea to do this `git pull` **before you start working on a new change/branch**. This will ensure that the project you are changing is **"fresh"**.
   - Congratulations! You just went through the "round" that most programmers do every day: making a change, pushing it to colleagues for review and incorporation, and pulling changes from others.
   
-<img src="git-workflow.png" width="600" class="center">
+<img src="viz/git-workflow.png" width="600" class="center">
 
 ## **Bug reporting** (issues)
 

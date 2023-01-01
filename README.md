@@ -23,14 +23,14 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/kpsych-fss-mu/git-scientific-communication"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/VGabrhel/git-scientific-communication"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/kpsych-fss-mu/git-scientific-communication">View Demo</a>
+    <a href="https://github.com/VGabrhel/git-scientific-communication">View Demo</a>
     ·
-    <a href="https://github.com/kpsych-fss-mu/git-scientific-communication/issues">Report Bug</a>
+    <a href="https://github.com/VGabrhel/git-scientific-communication/issues">Report Bug</a>
     ·
-    <a href="https://github.com/kpsych-fss-mu/git-scientific-communication/issues">Request Feature</a>
+    <a href="https://github.com/VGabrhel/git-scientific-communication/issues">Request Feature</a>
   </p>
 </div>
 
@@ -65,13 +65,9 @@
 
 - This project serves as a basis for enabling a more efficient collaboration for researchers using version control.
 
-- Use the `BLANK_README.md` to get started.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### **Built With** and **Prerequisites**
-
-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 - [R-project](https://www.r-project.org/)
 - [Git](https://git-scm.com/)
@@ -81,16 +77,13 @@
 <!-- GETTING STARTED -->
 ## **Getting Started**
 
-- This is an example of how you may give instructions on setting up your project locally.
 - To get a local copy up and running follow these simple example steps.
 
 ### **Installation**
 
-- _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Clone the repo
    ```sh
-   git clone https://github.com/kpsych-fss-mu/git-scientific-communication.git
+   git clone https://github.com/VGabrhel/git-scientific-communication.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -98,9 +91,7 @@
 <!-- USAGE EXAMPLES -->
 ## **Usage**
 
-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-- _For more examples, please refer to the [Materials](https://github.com/kpsych-fss-mu/git-scientific-communication/tree/main/materials)_
+- _For accessing the content of the workshop, please refer to the [Materials](https://github.com/VGabrhel/git-scientific-communication/tree/main/materials)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,8 +99,10 @@
 ## **Roadmap**
 
 [x] Add the content for the first part of the workshop
+[x] Add the sources for the second part of the workshop
+[] Containerize
 
-- See the [open issues](https://github.com/kpsych-fss-mu/git-scientific-communication/issues) for a full list of proposed features (and known issues).
+- See the [open issues](https://github.com/VGabrhel/git-scientific-communication/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +125,7 @@
 <!-- LICENSE -->
 ## **License**
 
-- Distributed under the MIT License. See `LICENSE.txt` for more information.
+- Distributed under Unlicense. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,7 +133,7 @@
 ## **Contact**
 
 - Creator - [VGabrhel](https://github.com/VGabrhel) - vitgabrhel@gmail.com
-- Project Link: [git-scientific-communication](https://github.com/kpsych-fss-mu/git-scientific-communication)
+- Project Link: [git-scientific-communication](https://github.com/VGabrhel/git-scientific-communication)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,15 +153,15 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/kpsych-fss-mu/git-scientific-communication.svg?style=for-the-badge
-[contributors-url]: https://github.com/kpsych-fss-mu/git-scientific-communication/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kpsych-fss-mu/git-scientific-communication.svg?style=for-the-badge
-[forks-url]: https://github.com/kpsych-fss-mu/git-scientific-communication/network/members
-[stars-shield]: https://img.shields.io/github/stars/kpsych-fss-mu/git-scientific-communication.svg?style=for-the-badge
-[stars-url]: https://github.com/kpsych-fss-mu/git-scientific-communication/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kpsych-fss-mu/git-scientific-communication.svg?style=for-the-badge
-[issues-url]: https://github.com/kpsych-fss-mu/git-scientific-communication/issues
-[license-shield]: https://img.shields.io/github/license/kpsych-fss-mu/git-scientific-communication.svg?style=for-the-badge
-[license-url]: https://github.com/kpsych-fss-mu/git-scientific-communication/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/VGabrhel/git-scientific-communication.svg?style=for-the-badge
+[contributors-url]: https://github.com/VGabrhel/git-scientific-communication/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/VGabrhel/git-scientific-communication.svg?style=for-the-badge
+[forks-url]: https://github.com/VGabrhel/git-scientific-communication/network/members
+[stars-shield]: https://img.shields.io/github/stars/VGabrhel/git-scientific-communication.svg?style=for-the-badge
+[stars-url]: https://github.com/VGabrhel/git-scientific-communication/stargazers
+[issues-shield]: https://img.shields.io/github/issues/VGabrhel/git-scientific-communication.svg?style=for-the-badge
+[issues-url]: https://github.com/VGabrhel/git-scientific-communication/issues
+[license-shield]: https://img.shields.io/github/license/VGabrhel/git-scientific-communication.svg?style=for-the-badge
+[license-url]: https://github.com/VGabrhel/git-scientific-communication/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/vit-gabrhel-ph-d-2b0a8b98/

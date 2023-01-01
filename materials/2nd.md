@@ -1,7 +1,6 @@
 ## Git ignore
 
-- [Ignorování souborů](https://naucse.python.cz/course/pyladies/git/ignoring/)
-
+- [Ignoring files and folders](https://naucse.python.cz/course/pyladies/git/ignoring/)
 
 ## Merge conflicts
 
